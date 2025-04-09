@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Como me encontrar:
-- GitHub: [@wallace-criador](https://github.com/wallace-criador)
+- GitHub: [@walalce-criador](https://github.com/walalce-criador)
 - (Coloca seu LinkedIn aqui depois)
